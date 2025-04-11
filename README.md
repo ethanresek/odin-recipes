@@ -1,0 +1,1 @@
+Introduction: The recpies project for Odin Project focuses on the basics of HTML. By completion, I will have shown basic competency with simple structuring code, use of images and links, and knowledge of setting up HTML boilerplate.
